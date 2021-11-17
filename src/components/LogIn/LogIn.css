@@ -1,0 +1,20 @@
+.login {
+    background-color: #393b3a;
+    text-align: center;
+    padding: 50px 0;
+}
+.login h2 {
+    color: #fffffe;
+    margin-bottom: 20px;
+}
+.login button {
+    border: 2px solid #30b66e;
+    border-radius: 20px;
+}
+.login button img {
+    width: 150px;
+}
+.login button h4 {
+    font-weight: 600;
+    margin: 5px 0;
+}

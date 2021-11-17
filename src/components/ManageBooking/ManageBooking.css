@@ -1,0 +1,39 @@
+.ManageBooking {
+    background-color: #0f0e17;
+    padding: 40px 0;
+}
+.manage-header {
+    color: #fffffe;
+    text-align: center;
+
+    margin-bottom: 40px;
+}
+
+.ManageBooking span {
+    color: #4fac7a;
+}
+.manageCard {
+    background-color: rgb(121, 118, 118);
+    border-radius: 20px;
+}
+.manageCard p,
+h5 {
+    color: #a7a9be;
+}
+.manage-img {
+    width: 100%;
+    height: 200px;
+    border-radius: 20px;
+}
+.manageCard button {
+    color: #fffffe;
+    background-color: #47b675d0;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 6px 20px;
+    margin: 6px;
+}
+.manageCard button:hover {
+    border: 2px solid #406254;
+    background-color: rgb(51, 43, 43);
+}
